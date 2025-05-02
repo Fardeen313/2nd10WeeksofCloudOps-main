@@ -57,4 +57,4 @@ EXPOSE 80
 # CMD ["httpd-foreground"]
 
 CMD ["/entrypoint.sh"]
-Stage 1: Build React App
+
